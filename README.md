@@ -27,9 +27,9 @@ This aspect is perhaps the easiest to comprehend and holds considerable truth. H
 
 ## Most important papers !
 
-1. [https://arxiv.org/abs/1409.0473](Neural Machine Translation by Jointly Learning to Align and Translate)
-2. [https://arxiv.org/abs/1706.03762](Attention Is All You Need)
-3. [https://arxiv.org/abs/1810.04805](BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding)
+1. [https://arxiv.org/abs/1409.0473] (Neural Machine Translation by Jointly Learning to Align and Translate)
+2. [https://arxiv.org/abs/1706.03762] (Attention Is All You Need)
+3. [https://arxiv.org/abs/1810.04805] (BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding)
 
 
 
