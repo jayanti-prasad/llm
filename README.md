@@ -24,3 +24,13 @@ I believe this concern has been somewhat exaggerated. Claims about the consequen
 ### Job Losses and Diminished Mental Abilities
 This aspect is perhaps the easiest to comprehend and holds considerable truth. However, it is not dissimilar from the effects of past inventions such as the printing press, camera, or calculator. As people become increasingly reliant on tools like LLMs, certain abilities might diminish, much like how widespread use of mobile navigation systems diminished the importance of having a strong sense of direction.
 
+
+## Most important papers !
+
+1. [https://arxiv.org/abs/1409.0473](Neural Machine Translation by Jointly Learning to Align and Translate)
+2. [https://arxiv.org/abs/1706.03762](Attention Is All You Need)
+3. [https://arxiv.org/abs/1810.04805](BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding)
+
+
+
+
