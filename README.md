@@ -32,5 +32,16 @@ This aspect is perhaps the easiest to comprehend and holds considerable truth. H
 3. [https://arxiv.org/abs/1810.04805] (BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding)
 
 
+## LLP Papers 
+
+| Year | Model | Title | Company / Group  |
+-----------------------------------
+| 2022 |   |  Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer| Google |
+-----------------------------------------------------------------------------------------------------
+|2022  | Chinchilla  |Training Compute-Optimal Large Language Models | Deep Mind| 
+-----------------------------------------------------------------------------------
+
+
+
 
 
