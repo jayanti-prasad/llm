@@ -32,5 +32,26 @@ This aspect is perhaps the easiest to comprehend and holds considerable truth. H
 3. [https://arxiv.org/abs/1810.04805] (BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding)
 
 
+## LLM Review Papers 
+
+1. [https://arxiv.org/abs/2307.03109](A Survey on Evaluation of Large Language Models)
+2. [https://arxiv.org/abs/2112.04359](Ethical and social risks of harm from Language Models)
+3. [https://arxiv.org/abs/2108.07258](On the Opportunities and Risks of Foundation Models)
+4. [https://arxiv.org/abs/2206.07682](Emergent Abilities of Large Language Models)
+5. [https://arxiv.org/abs/2303.18223](A Survey of Large Language Models)
+6. [https://arxiv.org/abs/2309.01029](Explainability for Large Language Models: A Survey)
+7. [https://arxiv.org/abs/2303.12712](Sparks of Arti cial General Intelligence:Early experiments with GPT-4)
+8. [https://arxiv.org/abs/2311.07361](The Impact of Large Language Models on Scientific Discovery:a Preliminary Study using GPT-4)
+
+
+
+
+
+
+
+
+
+
+
 
 
